@@ -1609,6 +1609,11 @@
 			text-decoration: none;
 			border: 0;
 		}
+		/*added h1 class*/
+	h1 {
+		font-size: 1.85em;
+		letter-spacing:0.15em;
+	}
 
 	h2 {
 		font-size: 1.5em;

@@ -1773,7 +1773,7 @@
 
 	::-webkit-input-placeholder {
 		color: inherit;
-		opacity: 0.5;
+		opacity: 3;
 		position: relative;
 		top: 3px;
 	}

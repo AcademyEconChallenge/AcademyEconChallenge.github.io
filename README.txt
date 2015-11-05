@@ -1,3 +1,5 @@
+This site uses the html5up theme Twenty, which has the author's original notes listed below. The Academy Economics Challenge is an event owned and hosted by the Bergen County Academies in Hackensack, NJ. The website will list information and be the portal for registration/contact. BCA details may be found at www.bergen.org . Thanks. 
+
 Twenty by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

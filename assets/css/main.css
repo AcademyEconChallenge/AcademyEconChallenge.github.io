@@ -2087,8 +2087,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #96dad1;
+			border-color: #96dad1;
 			color: #fff !important;
 		}
 
@@ -2128,7 +2128,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #96dad1;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2143,7 +2143,7 @@
 			.wrapper.style2 .button.special {
 				background: #fff;
 				border-color: #fff;
-				color: #83d3c9 !important;
+				color: #96dad1 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
